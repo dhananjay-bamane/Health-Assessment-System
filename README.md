@@ -51,25 +51,25 @@ All the datasets were used from kaggle.
 ## Sample images of the web application
 
 ### Home Page
-<img src="img/home.jpg" alt="My cool logo"/>
+<img src="img/home page.jpg" alt="My cool logo"/>
 <br>
 
-### Diabetes Predictor
-<img src="img/" alt="My cool logo"/>
+### Diabetes Disease Predictor
+<img src="img/diabetes.jpg" alt="My cool logo"/>
 <br>
 
-### Breast Cancer Predictor
-<img src="images/Sample_Web_App_Images/sample3.png" alt="My cool logo"/>
+### Heart Disease Predictor
+<img src="img/heart.jpg" alt="My cool logo"/>
 <br>
 
-### Malaria Predictor
-<img src="images/Sample_Web_App_Images/sample4.png" alt="My cool logo"/>
+### Kidney Disease Predictor
+<img src="img/kidney.jpg" alt="My cool logo"/>
 <br>
 
 ### Negative Result Page
-<img src="images/Sample_Web_App_Images/sample5.png" alt="My cool logo"/>
+<img src="img/0.jpg" alt="My cool logo"/>
 <br>
 
 ### Positive Result Page
-<img src="images/Sample_Web_App_Images/sample6.png" alt="My cool logo"/>
+<img src="img/1.jpg" alt="My cool logo"/>
 
