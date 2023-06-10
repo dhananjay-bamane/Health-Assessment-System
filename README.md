@@ -4,7 +4,7 @@
 
 ## About
 
-An Health Assessment system was developed using Flask Web Framework and was deployed on a web server. The objective is to predict whether the patient has a disease based on various dataset features. The web app can predict the following Diseases:
+>An Health Assessment system was developed using Flask Web Framework and was deployed on a web server. The objective is to predict whether the patient has a disease based on various dataset features. The web app can predict the following Diseases:
 
 - Diabetes
 - Heart Disease
@@ -22,8 +22,8 @@ An Health Assessment system was developed using Flask Web Framework and was depl
 
 ## NOTE
 
--> You can access the website live at: https://health-assessment-system.onrender.com <br>
--> Python version 3.10.9 was used for the whole project.<br>
+> You can access the website live at: https://health-assessment-system.onrender.com <br>
+Python version 3.10.9 was used for the whole project.<br>
 
 
 ## Steps to run this application in your system
