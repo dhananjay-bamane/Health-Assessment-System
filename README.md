@@ -14,7 +14,7 @@ This webapp was developed using Flask Web Framework and was deployed on web serv
 | -------------- | ------------------------ | -------- |
 | Diabetes       | Machine Learning Model   | 74.48%   |
 | Heart Disease  | Machine Learning Model   | 85.25%   |
-| Kidney Disease | Machine Learning Model   | 99%      |
+| Kidney Disease | Machine Learning Model   | 97.05%   |
 
 
 ## NOTE
@@ -51,11 +51,11 @@ All the datasets were used from kaggle.
 ## Sample images of the web application
 
 ### Home Page
-<img src="" alt="My cool logo"/>
+<img src="img/home.jpg" alt="My cool logo"/>
 <br>
 
 ### Diabetes Predictor
-<img src="images/Sample_Web_App_Images/sample2.png" alt="My cool logo"/>
+<img src="img/" alt="My cool logo"/>
 <br>
 
 ### Breast Cancer Predictor
